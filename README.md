@@ -1,5 +1,7 @@
 # Simple Counter App React
 
+![Counter App Screenshot](screenshot-of-app.PNG)
+
 ## Details
 
 This is a simple counter made in React.js. You can increase the counter by one, decrease
