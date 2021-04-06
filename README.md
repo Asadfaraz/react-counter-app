@@ -14,3 +14,5 @@ red.
 
 I split the button events so I can learn how it all works. For example I used inline
 functions in onclick of button and I also used an external function.
+
+**Live Project Link :** https://counter-app-asad.netlify.app/
